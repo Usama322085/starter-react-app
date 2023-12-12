@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc656e4e.css",
+    "main.js": "/static/js/main.fc389961.js",
+    "static/js/787.0c62a7f1.chunk.js": "/static/js/787.0c62a7f1.chunk.js",
+    "static/media/p2.jpg": "/static/media/p2.f385891775b7edeb7fc6.jpg",
+    "static/media/Conventional_Image.jpg": "/static/media/Conventional_Image.76306c27eb2abadfa3b3.jpg",
+    "static/media/p3.jpg": "/static/media/p3.da90e9031ff78d78fa31.jpg",
+    "static/media/p1.jpg": "/static/media/p1.b6f5e2c3110ed20f2432.jpg",
+    "static/media/usamaJ1.jpg": "/static/media/usamaJ1.d9948c51e7f34ed3e27b.jpg",
+    "static/media/usamaS1.jpg": "/static/media/usamaS1.597cc3d3b2347741df86.jpg",
+    "static/media/p4.jpg": "/static/media/p4.248422526b9a26e1259d.jpg",
+    "static/media/Web Development.png": "/static/media/Web Development.4d00635db713f774afa1.png",
+    "static/media/p5.jpg": "/static/media/p5.cc9c0d233871b216cba5.jpg",
+    "static/media/Naruto_boy.jpeg": "/static/media/Naruto_boy.0beff9649c1692d1b3ce.jpeg",
+    "index.html": "/index.html",
+    "main.bc656e4e.css.map": "/static/css/main.bc656e4e.css.map",
+    "main.fc389961.js.map": "/static/js/main.fc389961.js.map",
+    "787.0c62a7f1.chunk.js.map": "/static/js/787.0c62a7f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc656e4e.css",
+    "static/js/main.fc389961.js"
+  ]
+}
